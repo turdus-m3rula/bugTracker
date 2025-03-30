@@ -12,7 +12,7 @@ assignees: ''
 2. Which version of iOS was it running **before the restore**?
 3. Which version of iOS did you (attempt to) restore to?
 4. What version of turdus merula are you using?
-5. What is your host system (OS version? Hackintosh? VM? etc.)?
+5. What is your host system (OS version? VM? etc.)?
 6. How are you connecting to the device (USB-A? USB-C? Apple/3rd party cable? Through a USB hub?)?
 
 **What are the steps to reproduce the issue? Please share all commands you've ran.**
