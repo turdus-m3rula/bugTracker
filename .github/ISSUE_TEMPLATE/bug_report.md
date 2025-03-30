@@ -15,7 +15,7 @@ assignees: ''
 5. What is your host system (OS version? Hackintosh? VM? etc.)?
 6. How are you connecting to the device (USB-A? USB-C? Apple/3rd party cable? Through a USB hub?)?
 
-**What are the steps to reproduce the issue?**
+**What are the steps to reproduce the issue? Please share all commands you've ran.**
 1. 
 2. 
 3.
@@ -24,3 +24,6 @@ assignees: ''
 **What do you expect, and what is happening instead?**
 
 **Any other info, error logs, screenshots, ...?**
+
+If sharing console/terminal output, place it inside a code block
+```like so```.
