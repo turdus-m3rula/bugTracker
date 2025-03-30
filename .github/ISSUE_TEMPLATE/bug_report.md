@@ -7,6 +7,16 @@ assignees: ''
 
 ---
 
+**Issue checklist**
+- [ ] I have asked for support in the designated channels before posting an issue.
+- [ ] I have read the guide and/or fully understand what I am doing.
+- [ ] This issue is a bug report for the tool, not a support request.
+- [ ] This issue is not a duplicated issue.
+
+Guides at https://ios.cfw.guide/turdusmerula/ for untethered restores and at https://ios.cfw.guide/turdusmerula-tethered/ for tethered restores.
+
+**Failure to abide by these rules will result in your issue getting closed without a response.**
+
 **Tell us about your setup:**
 1. What iDevice are you using?
 2. Which version of iOS was it running **before the restore**?
