@@ -12,6 +12,7 @@ assignees: ''
 - [ ] I have read the guide and/or fully understand what I am doing.
 - [ ] This issue is a bug report for the tool, not a support request.
 - [ ] This issue is not a duplicated issue.
+- [ ] This is not an activation issue.
 
 Guides at https://ios.cfw.guide/turdusmerula/ for untethered restores and at https://ios.cfw.guide/turdusmerula-tethered/ for tethered restores.
 
