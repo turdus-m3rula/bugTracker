@@ -28,6 +28,10 @@ assignees: ''
 <!-- e.g. Restore type: untethered -->
 - Restore type: 
 
+### Which version of iOS was it running **before the restore**?
+<!-- e.g. iOS/iPadOS version: 16.7.11 -->
+- iOS/iPadOS version: 
+
 ### Which version of iOS/iPadOS did you (attempt to) restore to?
 <!-- e.g. iOS/iPadOS version: 16.5.1 -->
 - iOS/iPadOS version: 
