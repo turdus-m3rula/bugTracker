@@ -19,6 +19,10 @@ assignees: ''
 
 **⚠️ Failure to abide by these rules will result in your issue getting closed without a response.**
 
+<!-- 
+⚠️ Note: Please do not remove or alter the template text. Fill in your information only in the designated fields after each label. Keep all instructions and placeholders intact while providing your details.
+-->
+
 ## Tell us about your setup
 ### What iDevice are you using?
 <!-- e.g. Device name: iPad 5th generation -->
@@ -66,5 +70,7 @@ assignees: ''
 
 ### Any other info, error logs, screenshots, ...?
 
-If sharing console/terminal output, place it inside a code block
+<!--
+⚠️ If sharing console/terminal output, place it inside a code block
 ```like so```.
+-->
