@@ -17,7 +17,7 @@ assignees: ''
 
 > Guides at https://ios.cfw.guide/turdusmerula/ for untethered restores and at https://ios.cfw.guide/turdusmerula-tethered/ for tethered restores.
 
-**⚠️ Failure to abide by these rules will result in your issue getting closed without a response.**
+**⚠️ Failure to abide by these rules will result in your issue getting closed without a response. Issues will also be closed if the checkbox requirements above are not met.**
 
 <!-- 
 ⚠️ Note: Please do not remove or alter the template text. Fill in your information only in the designated fields after each label. Keep all instructions and placeholders intact while providing your details.
